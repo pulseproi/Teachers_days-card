@@ -19,7 +19,7 @@ HTML5 – Card structure; CSS3 – Styling and animations and JavaScript (ES6) �
 
 🚀 How to Use
 
-Open the live site: 
+Open the live site: https://pulseproi.github.io/Teachers_days-card/
 
 (Optional) Fork the repository to create your own version.
 
